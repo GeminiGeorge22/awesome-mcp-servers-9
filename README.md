@@ -236,6 +236,7 @@ See [Helpful Tools & Utilities](#helpful-tools-&-utilities) section for tools to
 - <img src="https://searx.space/favicon.png" height="14" /> [Ihor-Sokoliuk/MCP-SearXNG](https://github.com/ihor-sokoliuk/mcp-searxng) - A Model Context Protocol Server for [SearXNG](https://docs.searxng.org)
 - <img src="https://pragmar.com/media/static/images/mcp-server-webcrawl/favicon.png" height="14" /> [mcp-server-webcrawl](https://github.com/pragmar/mcp-server-webcrawl) - Advanced search and retrieval for web crawler data. Supports WARC, wget, Katana, SiteOne, and InterroBot crawlers.
 
+- <img src="https://blog.apify.com/content/images/2025/02/Apify_logo.png" height="14"/> [Skool Community Scraper](https://github.com/GeminiGeorge22/publicrecords-mcp/tree/main/servers/skool-community-mcp) - Search Skool communities by keyword. Members, price, rating and estimated monthly revenue for each, plus daily growth tracking.
 <br />
 
 ## 🗺️ <a name="location-services"></a>Location Services
