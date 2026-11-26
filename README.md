@@ -331,6 +331,8 @@ See [Helpful Tools & Utilities](#helpful-tools-&-utilities) section for tools to
 - <img src="https://cdn.simpleicons.org/unity/899499" height="14"/> [UnityEngine](https://github.com/CoderGamester/mcp-unity)<sup><sup>2</sup></sup> - Unity3d Game Engine integration for game development
 - <img src="https://cdn.simpleicons.org/unity/899499" height="14"/> [Unity Engine](https://github.com/codemaestroai/advanced-unity-mcp)<sup><sup>3</sup></sup> - Advanced Unity MCP from Code Maestro. Build, debug, profile, and manage assets, scenes, and scripts with natural language via MCP.
 
+- <img src="https://cdn.simpleicons.org/cloudflare/F38020" height="14"/> [Agent Flex Arena](https://github.com/GeminiGeorge22/agent-flex-arena-mcp) - Hosted MCP and x402 agent world on Base with live room chat, Neon Laser Tag, Octagon, and Roast Ring
+
 <br />
 
 ## 💹 <a name="finance"></a>Finance
